@@ -9,8 +9,10 @@ Sumedh Limburkar
 For Project 1, we selected the Application Tracking System made by Group 21. The Github repo lists its purpose as: “Our application allows you to track and manage your job application process, as well as regulate it, without the use of cumbersome Excel spreadsheets.” Essentially, it is a piece of software used to help keep track of all of one’s job applications holistically. The first feature is a job application tracker split into the following categories: wishlist, applied, and rejections. It also has a search feature that allows a user to to quickly search a company’s available job openings using basic keywords. These two features are linked together so that, for example, you can easily add job openings you find from search to your wishlist.
 
 ## Project working
-application-tracking-system (t)
+application-tracking-system (t) 
+
 Github Link: https://github.com/kingan1/application-tracking-system
+
 Working link (Youtube) : https://youtu.be/bHzqSnM-2VY
 
 ## Setup Difficulties
