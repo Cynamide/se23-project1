@@ -1,14 +1,14 @@
-### Project 1
-Mark Feng
-Reuben Thomas
-Arjit Agarwal
-Sumedh Limburkar
+# Project 1
+Mark Feng  
+Reuben Thomas  
+Arjit Agarwal  
+Sumedh Limburkar  
 
-# Project Introduction
+## Project Introduction
 
 For Project 1, we selected the Application Tracking System made by Group 21. The Github repo lists its purpose as: “Our application allows you to track and manage your job application process, as well as regulate it, without the use of cumbersome Excel spreadsheets.” Essentially, it is a piece of software used to help keep track of all of one’s job applications holistically. The first feature is a job application tracker split into the following categories: wishlist, applied, and rejections. It also has a search feature that allows a user to to quickly search a company’s available job openings using basic keywords. These two features are linked together so that, for example, you can easily add job openings you find from search to your wishlist.
 
-# Setup Difficulties
+## Setup Difficulties
 
 The initial issue we ran into was that the package versions that were specified by the repo were outdated compared to the pre-installed packages that were available locally on our machine. Not only were we unable to deploy the program, but many of the thrown errors were hard to comprehend.
 
@@ -18,13 +18,13 @@ Once we had our MongoDB implemented within our project, deploying the applicatio
 
 Although this didn’t directly affect our setup or deployment process, we also encountered a lot of unknown errors in the browser console. The main functionality of the website was seemingly unaffected by this, however these errors were extremely prevalent throughout the project and implies that the Group 21 took on a lot of technical debt for this project.
 
-# Solutions
+## Solutions
 
 Utilizing "virtualenv," we established an isolated environment to create a new instance with its own set of installed packages. This separation was important as it helped us solve the mismatched package version problem that we initially ran into while trying to set up and deploy the project for the first time. It also allows us to streamline our dependency management, which helps us avoid the pain of conflicting packages between different computers by enabling precise control over all dependency versions.
 
 To resolve the MongoDB implementation problem, we eventually realized that Group 21 had provided project setup instructions in the Github repository. We decided to use a simple local database for our initial deployment and testing, with plans to eventually move to the cloud so that all team member’s can test using the same set of data.
 
-# Lessons learned for Project 2
+## Lessons learned for Project 2
 
 We will be using a virtual environment immediately in order to ensure that everyone who is working on the project has the same set of packages. Not only does this immediately address any potential version mismatch that may exist between local and repo files, but it also streamlines the process for our team. By employing a virtual environment, it helps us ensure that there also won’t be any potential version or package mismatches between any of our team member’s computers.
 
