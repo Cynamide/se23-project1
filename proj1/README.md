@@ -110,4 +110,39 @@ Does your website and documentation clearly state the licence of your software?	
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?	|Yes	|https://github.com/kingan1/application-tracking-system#future-scope	
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?	|No		
 |Do you make timely announcements of the deprecation of components, APIs, etc.?	|Yes	|application-tracking-system/Improvements.md at main · kingan1/application-tracking-system (github.com)	
-			
+
+## 2. Simplii
+
+|Criteria|Score|evidence|Notes
+|-----|---------|---------|---|
+|Video|3|Video of new functionality, showing a significant delta from prior. [Video Link](https://www.youtube.com/watch?v=2nvcmtN1Vqo)| Video clearly shows difference between the older and the newer versions |
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... |2| [Contributors insights](https://github.com/jiangyy12/Simplii/graphs/contributors)
+but neverthelesextended-syntax/s, here is a track record that everyone is contributing a lot)|0|evidence in GH|
+|Number of commits|3|[Commits](https://github.com/jiangyy12/Simplii/commits/main)| 427 commits in total for the fork|
+|Number of commits: by different people|3|[Commits contribution by people](https://github.com/jiangyy12/Simplii/graphs/contributors)| All people contributed nearly equally |
+|Issues reports: there are **many**|3|[All Issues page in GH](https://github.com/jiangyy12/Simplii/issues?q=) | There were 19 issues that existed|
+|Issues are being closed|3|[Closed issues](https://github.com/jiangyy12/Simplii/issues?q=is%3Aissue+is%3Aclosed)| All the issues were handled and closed|
+|DOI badge: exists|3|[DOI Badge](https://zenodo.org/record/5733339)|
+|Docs: doco generated, format not ugly |3|[Documentation link](https://github.com/jiangyy12/Simplii/blob/main/README.md)| Not ugly
+|Docs: what: point descriptions of each class/function (in isolation) |3|[Code Structure](https://github.com/jiangyy12/Simplii/blob/main/docs/Phase%202/Code_Structure.pdf), [API Documentation](https://github.com/jiangyy12/Simplii/blob/main/docs/Phase%203/API_instruction.md)| The functions, architecture, and API are very well documented
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|2|[App preview link](https://github.com/jiangyy12/Simplii#quick-app-preview)| The repository has app preview and intuitive descriptions. However, it lacks a dedicated tutorial on showing worked examples.
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|[Why Simplii Link](https://github.com/jiangyy12/Simplii#why-use-simplii)| The motivation to use the app is convincingly good
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|[Video link](https://user-images.githubusercontent.com/18304940/140261087-6491c967-fe11-469f-9718-ca241b690bce.mp4) | Video is informative and convincing
+|Use of version control tools|3|[Github Link](https://github.com/jiangyy12/Simplii)
+|Use of style checkers |3|[Style checker lint file](https://github.com/jiangyy12/Simplii/blob/main/.pylintrc)|
+|Use of code formatters. |3|[Code formatter file](https://github.com/jiangyy12/Simplii/blob/main/.pylintrc)|
+|Use of syntax checkers. |3|[Link to file](https://github.com/jiangyy12/Simplii/blob/main/.pylintrc)|
+|Use of code coverage |3|[Code coverage file](https://github.com/jiangyy12/Simplii/blob/main/.travis.yml)| Exists
+|Other automated analysis tools|0||No other tools seen
+|Test cases exist dozens of tests and those test cases are more than 30% of the code base|3|[Test cases](https://github.com/jiangyy12/Simplii/tree/main/UnitTests)
+|Test cases are routinely executed|0|E.g. travis-com.com or github actions or something|
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|0|
+|Issues are discussed before they are closed|0|even if you discuss in slack, need a sumamry statement here|
+|Chat channel: exists|0|Link or screenshots|
+|Test cases: a large proportion of the issues related to handling failing cases.|0|If a test case fails, open an issue and fix it|
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|0|
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|0|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|0|
+|Evidence that the members of the team are working across multiple places in the code base|0|
+|Short release cycles |0| (hard to see in short projects) project members are committing often enough so that everyone can get your work|
+
