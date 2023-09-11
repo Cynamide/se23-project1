@@ -1,11 +1,10 @@
 # se23-project1
 # Application tracker evaluation
-
+# Total Score: 138
 
 |Criteria|Score|evidence|Notes|
 | -----|-| -------| ----|
-|Video	|3|	"Video was brief and gives demonstration of the application's functionality|
-https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4"|
+|Video	|3|https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4|Video was brief and gives demonstration of the application's functionality|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...|2|https://github.com/prithvish-doshi-17/application-tracking-system/commits/main
 |but nevertheless, here is a track record that everyone is contributing a lot)|3|Commits · prithvish-doshi-17/application-tracking-system (github.com)|
 |Number of commits|3|"https://github.com/kingan1/application-tracking-system/graphs/contributors 341 is a good number if commits"|
