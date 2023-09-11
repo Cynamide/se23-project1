@@ -4,15 +4,15 @@
 
 |Criteria|Score|evidence|Notes|
 | -----|-| -------| ----|
-|Video	|3|https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4|Video was brief and gives demonstration of the application's functionality|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others...|2|https://github.com/prithvish-doshi-17/application-tracking-system/commits/main
-|but nevertheless, here is a track record that everyone is contributing a lot)|3|Commits · prithvish-doshi-17/application-tracking-system (github.com)|
-|Number of commits|3|"https://github.com/kingan1/application-tracking-system/graphs/contributors 341 is a good number if commits"|
+|Video	|3|[Video link](https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4)|Video was brief and gives demonstration of the application's functionality|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others...|2|[Contributors link](https://github.com/prithvish-doshi-17/application-tracking-system/commits/main)|
+|but nevertheless, here is a track record that everyone is contributing a lot)|3|[Commits link](Commits · prithvish-doshi-17/application-tracking-system github.com)|
+|Number of commits|3|"https://github.com/kingan1/application-tracking-system/graphs/contributors"|341 is a good number if commits|
 |Number of commits: by different people	|2|	"Contributors to kingan1/application-tracking-system (github.com) |
 |Group members had good number of commits"|
-|Issues reports: there are many	|3	|34 issues is a good number	|
-|Issues are being closed	|2	|10 issues were still open	|
-|DOI badge: exists		|3	|DOI badge exists		|
+|Issues reports: there are many	|3	|[issues](https://github.com/kingan1/application-tracking-system/issues34)|issues is a good number|
+|Issues are being closed	|2	|[open issues](https://github.com/kingan1/application-tracking-system/issues)|10 issues were still open	|
+|DOI badge: exists		|3	|[DOI](https://github.com/kingan1/application-tracking-system)		|Exists in readme file
 |Docs: doco generated, format not ugly	|3	|application-tracking-system/Software Documentation.pdf at main · kingan1/application-tracking-system (github.com)	|
 |Docs: what: point descriptions of each class/function (in isolation)	|2	|application-tracking-system/Software Documentation.pdf at main · kingan1/application-tracking-system (github.com)	|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z	|2	|application-tracking-system/Software Documentation.pdf at main · kingan1/application-tracking-system (github.com)	|
