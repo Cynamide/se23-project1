@@ -2,7 +2,8 @@
 # Application tracker evaluation
 
 
-Criteria	Score	evidence	Notes
+|Criteria|Score|evidence|Notes
+| ----------- | ----------- | ----------- | ----------- |
 Video	3	"Video was brief and gives demonstration of the application's functionality
 https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4"	
 Workload is spread over the whole team (one team member is often Xtimes more productive than the others...	2	https://github.com/prithvish-doshi-17/application-tracking-system/commits/main	
