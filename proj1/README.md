@@ -7,10 +7,9 @@
 |Video	|3|[Video link](https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4)|Video was brief and gives demonstration of the application's functionality|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...|2|[Contributors link](https://github.com/prithvish-doshi-17/application-tracking-system/commits/main)|
 |but nevertheless, here is a track record that everyone is contributing a lot)|3|[Commits link](Commits · prithvish-doshi-17/application-tracking-system github.com)|
-|Number of commits|3|"https://github.com/kingan1/application-tracking-system/graphs/contributors"|341 is a good number if commits|
-|Number of commits: by different people	|2|	"Contributors to kingan1/application-tracking-system (github.com) |
-|Group members had good number of commits"|
-|Issues reports: there are many	|3	|[issues](https://github.com/kingan1/application-tracking-system/issues34)|issues is a good number|
+|Number of commits|3|[Commits link]("https://github.com/kingan1/application-tracking-system/graphs/contributors")|341 is a good number if commits|
+|Number of commits: by different people	|2|	"Contributors to kingan1/application-tracking-system (github.com) | Group members had good number of commits|
+|Issues reports: there are many	|3	|[issues](https://github.com/kingan1/application-tracking-system/issues)|34 issues is a good number|
 |Issues are being closed	|2	|[open issues](https://github.com/kingan1/application-tracking-system/issues)|10 issues were still open	|
 |DOI badge: exists		|3	|[DOI](https://github.com/kingan1/application-tracking-system)		|Exists in readme file
 |Docs: doco generated, format not ugly	|3	|application-tracking-system/Software Documentation.pdf at main · kingan1/application-tracking-system (github.com)	|
@@ -27,8 +26,7 @@
 |Test cases exist	|1	|application-tracking-system/backend/test_app.py at build_fix · kingan1/application-tracking-system (github.com)	|
 |Test cases are routinely executed	|2	|application-tracking-system/.github/workflows/pytest_ci.yml at main · kingan1/application-tracking-system	|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up	|2	|application-tracking-system/Contributing.md at main · kingan1/application-tracking-system (github.com)	|
-|Issues are discussed before they are closed	|2	|"Issues · kingan1/application-tracking-system (github.com) |
-Some issues had no discussion before being closed"	|
+|Issues are discussed before they are closed	|2	| Issues · kingan1/application-tracking-system (github.com) | Some issues had no discussion before being closed	|
 |Chat channel: exists	|3	|https://github.com/kingan1/application-tracking-system/blob/main/docs/proj1rubric.md	
 |Test cases: a large proportion of the issues related to handling failing cases.	|2	|application-tracking-system/backend/test_app.py at main · kingan1/application-tracking-system (github.com)	|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files	|3	|Comparing Team-Glare:main...kingan1:main · Team-Glare/application-tracking-system (github.com)	|
