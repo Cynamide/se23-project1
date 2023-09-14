@@ -213,9 +213,9 @@ e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"	|Yes	|Sync-Ends
 |Are releases tagged in the repository?	|Yes	|[tags](https://github.com/cagandhi/Sync-Ends/tags)
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)	|Yes	|https://github.com/cagandhi/Sync-Ends
 |Do you back-up your repository?	|Yes	|Tags · jaymodi98/Sync-Ends (github.com)	
-|Do you provide publicly-available instructions for building your software from the source code?	|Yes	|application-tracking-system/docs/app.md at main · kingan1/application-tracking-system (github.com)	
-|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)	|Yes	|application-tracking-system/readme.md at main · kingan1/application-tracking-system (github.com)	
-|Do you provide publicly-available instructions for deploying your software?	|Yes	|application-tracking-system/readme.md at main · kingan1/application-tracking-system (github.com)	
+|Do you provide publicly-available instructions for building your software from the source code?	|Yes	|[instructions](Sync-Ends/README.md at master · cagandhi/Sync-Ends (github.com))
+|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)	|Yes	|[python setup tools](Sync-Ends/setup.py at master · cagandhi/Sync-Ends (github.com))	
+|Do you provide publicly-available instructions for deploying your software?	|Yes	|[instructions for deploying](Sync-Ends/README.md at master · cagandhi/Sync-Ends (github.com))
 |Does your documentation list all third-party dependencies?	|Yes	|	[third-party dependencies](jaymodi98/Sync-Ends: Software Engineering Project for CSC510 (github.com))
 |Does your documentation list the version number for all third-party dependencies?	|No	|
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?	|Yes	|Sync-Ends/README.md at master · jaymodi98/Sync-Ends (github.com)
@@ -224,7 +224,7 @@ e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"	|Yes	|Sync-Ends
 |Do you have an automated test suite for your software?	|Yes	|[test suite](Sync-Ends/.travis.yml at master · cagandhi/Sync-Ends (github.com))
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?	|Yes	|Sync-Ends/.travis.yml at master · cagandhi/Sync-Ends (github.com)
 |Do you use continuous integration, automatically running tests whenever changes are made to your source code?	|Yes	|Sync-Ends/.github/workflows/python-publish.yml at master · cagandhi/Sync-Ends	
-|Are your test results publicly visible?	|Yes	|application-tracking-system/backend/test_app.py at main · kingan1/application-tracking-system (github.com)	
+|Are your test results publicly visible?	|No	|
 |Are all manually-run tests documented?	|No	|
 |Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations	|No	|
 |Does your website state how many projects and users are associated with your project?	|Yes	|https://github.com/jaymodi98/Sync-Ends/projects/1	|
@@ -234,7 +234,7 @@ e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"	|Yes	|Sync-Ends
 |Do you list third-party publications that refer to your software on your website or link to a resource where these are available?	|No	|Sync-Ends/README.md at master · cagandhi/Sync-Ends (github.com)
 |Can users subscribe to notifications to changes to your source code repository?	|Yes 	|Sync-Ends/CONTRIBUTING.md at master · cagandhi/Sync-Ends (github.com)
 |If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?	|Yes	|https://github.com/cagandhi/Sync-Ends/blob/master/LICENSE	
-|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?	|Yes	|application-tracking-system/Contributing.md at main · kingan1/application-tracking-system (github.com)	
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?	|Yes	|[Contributions policy](Sync-Ends/CONTRIBUTING.md at master · cagandhi/Sync-Ends (github.com))	
 |Do you have a contributions policy?	|Yes	|[contributions](Sync-Ends/CONTRIBUTING.md at master · cagandhi/Sync-Ends (github.com))	
 |Is your contributions' policy publicly available?	|Yes	|[contributions](Sync-Ends/CONTRIBUTING.md at master · cagandhi/Sync-Ends (github.com))	
 |Do contributors keep the copyright/IP of their contributions?	|Yes	|[contributions](Sync-Ends/CONTRIBUTING.md at master · cagandhi/Sync-Ends (github.com))
@@ -245,6 +245,6 @@ Does your website and documentation clearly state the licence of your software?	
 |Is your software released under an OSI-approved open-source licence?	|Yes	|[license](Sync-Ends/LICENSE at master · jaymodi98/Sync-Ends (github.com))
 |Does each of your source code files include a licence header?	|No|[source code](https://github.com/cagandhi/Sync-Ends/tree/master/src)|Source code files do not include license header	
 |Do you have a recommended citation for your software?	|Yes	|[Citation](Sync-Ends/CITATION.md at master · cagandhi/Sync-Ends (github.com))	
-|Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?	|Yes	|https://github.com/kingan1/application-tracking-system#future-scope	
+|Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?	|No	|
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?	|No		
 |Do you make timely announcements of the deprecation of components, APIs, etc.?	|No
