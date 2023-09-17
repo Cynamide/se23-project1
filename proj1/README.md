@@ -141,6 +141,80 @@ but neverthelesextended-syntax/s, here is a track record that everyone is contri
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|0|
 |Evidence that the members of the team are working across multiple places in the code base|0|
 |Short release cycles |0| (hard to see in short projects) project members are committing often enough so that everyone can get your work|
+|Does your website and documentation provide a clear, high-level overview of your software?	|Yes	|[Documentation and overview link](https://github.com/jiangyy12/Simplii#readme) |
+|Does your website and documentation clearly describe the type of user who should use your software?	|Yes	|[Documentation link](https://github.com/jiangyy12/Simplii#readme)	|
+|Do you publish case studies to show how your software has been used by yourself and others?	|Yes		| [Quick App Preview](https://github.com/jiangyy12/Simplii#quick-app-preview) | 
+|Is the name of your project/software unique?	|Yes	|[Github Link](https://github.com/jiangyy12/Simplii) | The Software name is called Simplii	|
+|Is your project/software name free from trademark violations?	|Yes |[Github Link](https://github.com/jiangyy12/Simplii)	|
+|Is your software available as a package that can be deployed without building it?	|Yes	|[Github Link](https://github.com/jiangyy12/Simplii)	|
+|Is your software available for free?	|Yes	|[Github Link](https://github.com/jiangyy12/Simplii)	
+|Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?	|Yes	|([https://github.com/jiangyy12/Simplii](https://github.com/jiangyy12/Simplii.git))|
+|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?	|Yes	|([https://github.com/jiangyy12/Simplii](https://github.com/jiangyy12/Simplii.git)) |
+|Is your documentation clearly available on your website or within your software?	|Yes	|[Documentation link](https://github.com/jiangyy12/Simplii#readme)	|
+|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?	|Yes	|[Getting Started Guide](https://github.com/jiangyy12/Simplii#getting-started)	|
+|If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?	| Yes	|[Getting Started Guide](https://github.com/jiangyy12/Simplii#getting-started) |
+|Do you provide a comprehensive guide to all your software’s commands, functions and options?	|Yes	|[Documentation link](https://github.com/jiangyy12/Simplii#readme) |
+|Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?	|No|	
+|If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?	|No	|
+|Do you store your documentation under revision control with your source code?	|Yes	|[Documentation link](https://github.com/jiangyy12/Simplii#readme)	|
+|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?	|Yes	|[Version history](https://github.com/jiangyy12/Simplii/tags)	|
+|Does your software describe how a user can get help with using your software?	|No		
+|Does your website and documentation describe what support, if any, you provide to users and developers?	|No		
+|Does your project have an e-mail address or forum that is solely for supporting users?	|No		
+|Are e-mails to your support e-mail address received by more than one person?	|No		
+|Does your project have a ticketing system to manage bug reports and feature requests?	|Yes	|[ticketing system](https://github.com/jiangyy12/Simplii/blob/main/CONTRIBUTING.md) |
+|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?	|Yes	|[Contributing](https://github.com/jiangyy12/Simplii/blob/main/CONTRIBUTING.md)
+|Is your software’s architecture and design modular?	|Yes	|[architecture](https://github.com/jiangyy12/Simplii#architecture)
+|Does your software use an accepted coding standard or convention?	|Yes	|https://github.com/jiangyy12/Simplii/blob/main/README.md	
+|"Does your software allow data to be imported and exported using open data formats?
+e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones"	 |No	|	
+|"Does your software allow communications using open communications protocols?
+e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"	|Yes	|	[Github](https://github.com/jiangyy12/Simplii)
+|Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?	|Yes	|[Installation instructions](https://github.com/jiangyy12/Simplii#getting-started) show that it is OS independent
+|Does your software adhere to appropriate accessibility conventions or standards?	|Yes	|[Github link](https://github.com/jiangyy12/Simplii)
+|Does your documentation adhere to appropriate accessibility conventions or standards?	|Yes	|[Documentation Link](https://github.com/jiangyy12/Simplii#readme)
+|Is your source code stored in a repository under revision control?	|Yes	|[Github.com](https://github.com/jiangyy12/Simplii#getting-started)
+|Is each source code release a snapshot of the repository?	|Yes	|[Releases](https://github.com/jiangyy12/Simplii/releases)
+|Are releases tagged in the repository?	|Yes	|[Tags](https://github.com/jiangyy12/Simplii/tags)
+|Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)	|Yes	|[Main](https://github.com/jiangyy12/Simplii/tree/main)
+|Do you back-up your repository?	|Yes	|[Projects](https://github.com/jiangyy12/Simplii)
+|Do you provide publicly-available instructions for building your software from the source code?	|Yes	|[Run instructions](https://github.com/jiangyy12/Simplii#getting-started)
+|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)	|Yes	|[Readme](https://github.com/jiangyy12/Simplii#readme)	
+|Do you provide publicly-available instructions for deploying your software?	|Yes	|[Github](https://github.com/jiangyy12/Simplii)
+|Does your documentation list all third-party dependencies?	|Yes	|[Third party deps link](https://github.com/jiangyy12/Simplii#third-party-tools)
+|Does your documentation list the version number for all third-party dependencies?	|No |
+|Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?	|Yes	|[Third party deps link](https://github.com/jiangyy12/Simplii#third-party-tools)	
+|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)	|Yes	|[Getting started](https://github.com/jiangyy12/Simplii#getting-started)	
+|Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?	|Yes	|[Tests](https://github.com/jiangyy12/Simplii/tree/main/UnitTests)	
+|Do you have an automated test suite for your software?	|Yes	|[Tests](https://github.com/jiangyy12/Simplii/tree/main/UnitTests)
+|Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?	|Yes	|[.github/workflows/python-app.yml](https://github.com/jiangyy12/Simplii/blob/19fb6262b34469564d94cb1bc0b036136c37bfc6/.github/workflows/python-app.yml)
+|Do you use continuous integration, automatically running tests whenever changes are made to your source code?	|Yes	|[.github/workflows/python-app.yml](https://github.com/jiangyy12/Simplii/blob/19fb6262b34469564d94cb1bc0b036136c37bfc6/.github/workflows/python-app.yml)
+|Are your test results publicly visible?	|No |
+|Are all manually-run tests documented?	|No |
+|Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations	|Yes	|[Releases](https://github.com/jiangyy12/Simplii/releases/tag/v3.0)
+|Does your website state how many projects and users are associated with your project?	|Yes	|[project](https://github.com/jiangyy12/Simplii) [users](https://github.com/jiangyy12/Simplii/graphs/contributors)	|
+|Do you provide success stories on your website?	|No		
+|Do you list your important partners and collaborators on your website?	|Yes	|[Collaborators](https://github.com/jiangyy12/Simplii/graphs/contributors)
+|Do you list your project's publications on your website or link to a resource where these are available?	|Yes	|[Pub link][https://github.com/jiangyy12/Simplii/blob/main/docs/Phase1/proj1rubricComments]
+|Do you list third-party publications that refer to your software on your website or link to a resource where these are available?	|Yes	|[Github](https://github.com/jiangyy12/Simplii)	
+|Can users subscribe to notifications to changes to your source code repository?	|Yes 	|[Star the repository here](https://github.com/jiangyy12/Simplii)	
+|If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?	|No
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?	|Yes	|[Contributing](https://github.com/jiangyy12/Simplii/blob/main/CONTRIBUTING.md)
+|Do you have a contributions policy?	|Yes	|[Contributing](https://github.com/jiangyy12/Simplii/blob/main/CONTRIBUTING.md)
+|Is your contributions' policy publicly available?	|Yes	|[Contributing](https://github.com/jiangyy12/Simplii/blob/main/CONTRIBUTING.md)
+|Do contributors keep the copyright/IP of their contributions?	|Yes	|[Contributing](https://github.com/jiangyy12/Simplii/blob/main/CONTRIBUTING.md)
+|Does your website and documentation clearly state the copyright owners of your software and documentation?	|Yes	|[Copyright owners in readme](https://github.com/jiangyy12/Simplii#readme) |
+|Does each of your source code files include a copyright statement?	|No		
+Does your website and documentation clearly state the licence of your software?	|Yes	|[LICENSE](https://github.com/jiangyy12/Simplii/blob/main/LICENSE)	
+|Is your software released under an open source licence?	|Yes	|[License](https://github.com/jiangyy12/Simplii/blob/main/LICENSE)
+|Is your software released under an OSI-approved open-source licence?	|Yes	|[LICENSE](https://github.com/jiangyy12/Simplii/blob/main/LICENSE)
+|Does each of your source code files include a licence header?	|No		
+|Do you have a recommended citation for your software?	|Yes	|[CITATION](https://github.com/jiangyy12/Simplii/blob/main/CITATION.md)	
+|Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?	|Yes	|[Future Enhancements](https://github.com/jiangyy12/Simplii#future-enhancements)	
+|Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?	|No		
+|Do you make timely announcements of the deprecation of components, APIs, etc.?	|Yes	|[Phase 2 Improvements](https://github.com/jiangyy12/Simplii/blob/main/docs/Phase%202/ImprovementsDoc.md) and [Phase 3 improvements](https://github.com/jiangyy12/Simplii/blob/main/docs/Phase%203/ImprovementsDoc.md)
+
+
 
 # Sync Ends
 
