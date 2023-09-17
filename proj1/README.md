@@ -1,7 +1,7 @@
 # se23-project1
-# Application tracker evaluation
-# Total Score: 138
-
+## 1. Application tracker evaluation
+### Total Score: 138/162
+### Working link (Youtube) : https://youtu.be/bHzqSnM-2VY
 |Criteria|Score|evidence|Notes|
 | -----|-| -------| ----|
 |Video	|3|[Video link](https://github.com/kingan1/application-tracking-system/blob/main/Demo%20Video.mp4)|Video was brief and gives demonstration of the application's functionality|
@@ -108,7 +108,7 @@ Does your website and documentation clearly state the licence of your software?	
 |Do you make timely announcements of the deprecation of components, APIs, etc.?	|Yes	|application-tracking-system/Improvements.md at main · kingan1/application-tracking-system (github.com)	
 
 ## 2. Simplii
-
+### Total Score: 107/162
 |Criteria|Score|evidence|Notes
 |-----|---------|---------|---|
 |Video|3|Video of new functionality, showing a significant delta from prior. [Video Link](https://www.youtube.com/watch?v=2nvcmtN1Vqo)| Video clearly shows difference between the older and the newer versions |
@@ -214,8 +214,8 @@ Does your website and documentation clearly state the licence of your software?	
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?	|No		
 |Do you make timely announcements of the deprecation of components, APIs, etc.?	|Yes	|[Phase 2 Improvements](https://github.com/jiangyy12/Simplii/blob/main/docs/Phase%202/ImprovementsDoc.md) and [Phase 3 improvements](https://github.com/jiangyy12/Simplii/blob/main/docs/Phase%203/ImprovementsDoc.md)
 
-# SRIJAN 2.0
-
+## 3. SRIJAN 2.0
+### Total Score: 117/162
 |Criteria|Score|evidence|Notes
 |-----|---------|---------|---|
 |Video|3|Video of new functionality, showing a significant delta from prior. [Video Link](https://www.youtube.com/watch?v=3RQS-bFaeNo)| Video clearly shows difference between the older and the newer versions |
@@ -323,8 +323,8 @@ Does your website and documentation clearly state the licence of your software?	
 
 
 
-# Sync Ends
-
+## 4. Sync Ends
+### Total Score: 133/162
 |Criteria|Score|evidence|Notes|
 | -----|-| -------| ----|
 |Video	|1|[Video link](https://github.com/jaymodi98/Sync-Ends/blob/master/README.md)|Too long|

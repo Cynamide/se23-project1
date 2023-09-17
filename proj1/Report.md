@@ -1,25 +1,19 @@
 # Project 1
+
 Mark Feng  
 Reuben Thomas  
 Arjit Agarwal  
-Sumedh Limburkar  
+Sumedh Deepak Patkar
 
 ## Project Introduction
 
 For Project 1, we selected the Application Tracking System made by Group 21. The Github repo lists its purpose as: “Our application allows you to track and manage your job application process, as well as regulate it, without the use of cumbersome Excel spreadsheets.” Essentially, it is a piece of software used to help keep track of all of one’s job applications holistically. The first feature is a job application tracker split into the following categories: wishlist, applied, and rejections. It also has a search feature that allows a user to to quickly search a company’s available job openings using basic keywords. These two features are linked together so that, for example, you can easily add job openings you find from search to your wishlist.
 
-## Project working
-application-tracking-system (t) 
-
-Github Link: https://github.com/kingan1/application-tracking-system
-
-Working link (Youtube) : https://youtu.be/bHzqSnM-2VY
-
 ## Setup Difficulties
 
 The initial issue we ran into was that the package versions that were specified by the repo were outdated compared to the pre-installed packages that were available locally on our machine. Not only were we unable to deploy the program, but many of the thrown errors were hard to comprehend.
 
-After we resolved the package version mismatch issue, executing the software went relatively smoothly. Group 21 provided pre-made setup bash scripts that automated almost all of the common setup processes. Once we had completed dependency installation and setup, we realized that the project stored data in a MongoDB database. We weren’t certain how the project specifically implemented MongoDB, which caused us some headache. 
+After we resolved the package version mismatch issue, executing the software went relatively smoothly. Group 21 provided pre-made setup bash scripts that automated almost all of the common setup processes. Once we had completed dependency installation and setup, we realized that the project stored data in a MongoDB database. We weren’t certain how the project specifically implemented MongoDB, which caused us some headache.
 
 Once we had our MongoDB implemented within our project, deploying the application also went quite smoothly. Included in the set of bash scripts that Group 21 made was a startup script that automated the project deploying process. Whilst the functionality of the application was a bit obtuse and unintuitive, the project’s core featureset was working as intended without any modification.
 
