@@ -1,4 +1,6 @@
 # se23-project1
+## [Link to report](https://github.com/Cynamide/se23-project1/blob/main/proj1/Report.md)
+
 ## 1. Application tracker evaluation
 ### Total Score: 138/162
 ### Working link (Youtube) : https://youtu.be/bHzqSnM-2VY
@@ -432,7 +434,7 @@ Does your website and documentation clearly state the licence of your software?	
 
 
 ## 5. Slash
-
+### Total Score: 118/162
 |Criteria|Score|evidence|Notes
 |-----|---------|---------|---|
 |Video|2|Video of new functionality, showing a significant delta from prior. [Video Link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/assets/slash-phase3.gif)| Video clearly shows functionality usage but does not show a delta |
