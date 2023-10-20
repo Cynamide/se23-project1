@@ -1,4 +1,6 @@
 # se23-project1
+## [Link to report](https://github.com/Cynamide/se23-project1/blob/main/proj1/Report.md)
+
 ## 1. Application tracker evaluation
 ### Total Score: 138/162
 ### Working link (Youtube) : https://youtu.be/bHzqSnM-2VY
@@ -429,3 +431,111 @@ Does your website and documentation clearly state the licence of your software?	
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?	|No	|
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?	|No		
 |Do you make timely announcements of the deprecation of components, APIs, etc.?	|No
+
+
+## 5. Slash
+### Total Score: 118/162
+|Criteria|Score|evidence|Notes
+|-----|---------|---------|---|
+|Video|2|Video of new functionality, showing a significant delta from prior. [Video Link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/assets/slash-phase3.gif)| Video clearly shows functionality usage but does not show a delta |
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... |2| [Contributors insights](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)
+but neverthelesextended-syntax/s, here is a track record that everyone is contributing a lot)|3|[Contributors insights](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)|
+|Number of commits|3|[Commits](https://github.com/NCSU-Group7-SE2021/slash/commits/main)| 369 commits in total for the fork|
+|Number of commits: by different people|3|[Commits contribution by people](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)| All people contributed nearly equally |
+|Issues reports: there are **many**|3|[All Issues page in GH](https://github.com/NCSU-Group7-SE2021/slash/issues) | There were 36 issues that existed|
+|Issues are being closed|3|[Closed issues](https://github.com/NCSU-Group7-SE2021/slash/issues?q=is%3Aissue+is%3Aclosed)| 32 issues were handled and closed|
+|DOI badge: exists|3|[DOI Badge](https://zenodo.org/badge/latestdoi/431326985)|
+|Docs: doco generated, format not ugly |3|[Documentation link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md)| Not ugly
+|Docs: what: point descriptions of each class/function (in isolation) |3|[Documentation link](https://slash-app-staging.azurewebsites.net/) | Documentation did exist. However, the link doesnot work now. 
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|2|[Use cases](https://github.com/NCSU-Group7-SE2021/slash#bulb-use-case)| 
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|[Slash link](https://github.com/NCSU-Group7-SE2021/slash)| The readme conveys good reasons to use the app
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|[Video link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/assets/slash-phase3.gif) | Video is informative and convincing
+|Use of version control tools|3|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)
+|Use of style checkers |0||Style checkers not used|
+|Use of code formatters. |0||Not useed
+|Use of syntax checkers. |0||Not used
+|Use of code coverage |3|[Code coverage file](https://github.com/NCSU-Group7-SE2021/slash/blob/main/.github/workflows/workflow.yml)| Exists
+|Other automated analysis tools|0||No other tools seen
+|Test cases exist dozens of tests and those test cases are more than 30% of the code base|3|[Test cases](https://github.com/NCSU-Group7-SE2021/slash/tree/main/tests)
+|Test cases are routinely executed|0|E.g. travis-com.com or github actions or something|
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|0|
+|Issues are discussed before they are closed|2|[Issues discussions](https://github.com/NCSU-Group7-SE2021/slash/issues/46)|
+|Chat channel: exists|0|Link or screenshots|
+|Test cases: a large proportion of the issues related to handling failing cases.|0|If a test case fails, open an issue and fix it|
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)
+|Evidence that the members of the team are working across multiple places in the code base|3|[Contributors insights](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)
+|Short release cycles |2| [Releases](https://github.com/NCSU-Group7-SE2021/slash/releases)|
+|Does your website and documentation provide a clear, high-level overview of your software?	|Yes	|[Documentation and overview link](https://github.com/NCSU-Group7-SE2021/slash#readme) |
+|Does your website and documentation clearly describe the type of user who should use your software?	|Yes	|[Documentation link](https://github.com/NCSU-Group7-SE2021/slash#readme)	|
+|Do you publish case studies to show how your software has been used by yourself and others?	|Yes		| [Quick App Preview](https://github.com/jiangyy12/Simplii#quick-app-preview) | 
+|Is the name of your project/software unique?	|Yes	|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/) | The Software name is called Simplii	|
+|Is your project/software name free from trademark violations?	|Yes |[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)	|
+|Is your software available as a package that can be deployed without building it?	|Yes	|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)	|
+|Is your software available for free?	|Yes	|[Github Link](https://github.com/NCSU-Group7-SE2021/slash/)	
+|Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?	|Yes	|([https://github.com/NCSU-Group7-SE2021/slash](https://github.com/NCSU-Group7-SE2021/slash.git))|
+|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?	|Yes	|([https://github.com/NCSU-Group7-SE2021/slash](https://github.com/NCSU-Group7-SE2021/slash.git)) |
+|Is your documentation clearly available on your website or within your software?	|Yes	|[Documentation link](https://github.com/NCSU-Group7-SE2021/slash#readme)	|
+|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?	|Yes	|[Installation](https://github.com/NCSU-Group7-SE2021/slash#rocket-installation)	|
+|If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?	| Yes	|[Installation guide](https://github.com/NCSU-Group7-SE2021/slash#rocket-installation) |
+|Do you provide a comprehensive guide to all your software’s commands, functions and options?	|Yes	|[Documentation link](https://github.com/NCSU-Group7-SE2021/slash#readme) |
+|Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?	|No|	
+|If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?	|No	|
+|Do you store your documentation under revision control with your source code?	|Yes	|[Documentation link](https://github.com/NCSU-Group7-SE2021/slash#readme)	|
+|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?	|Yes	|[Version history](https://github.com/NCSU-Group7-SE2021/slash/tags)	|
+|Does your software describe how a user can get help with using your software?	|Yes | [Support Link](https://github.com/NCSU-Group7-SE2021/slash#email-support) | Users can email on the provided email address		
+|Does your website and documentation describe what support, if any, you provide to users and developers?	|Yes | https://github.com/NCSU-Group7-SE2021/slash#email-support | Support email is provided		
+|Does your project have an e-mail address or forum that is solely for supporting users?	|Yes | 	https://github.com/NCSU-Group7-SE2021/slash#email-support| An email address is given in the support section	
+|Are e-mails to your support e-mail address received by more than one person?	|No		
+|Does your project have a ticketing system to manage bug reports and feature requests?	|Yes	|[ticketing system](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md) |
+|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?	|Yes	|[Contributing](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md)
+|Is your software’s architecture and design modular?	|Yes	|
+|Does your software use an accepted coding standard or convention?	|Yes	|https://github.com/NCSU-Group7-SE2021/slash/blob/main/README.md	
+|"Does your software allow data to be imported and exported using open data formats?
+e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones"	 |No	|	
+|"Does your software allow communications using open communications protocols?
+e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones"	|Yes	|	[Github](https://github.com/NCSU-Group7-SE2021/slash/)
+|Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?	|Yes	|[Installation instructions](https://github.com/NCSU-Group7-SE2021/slash#rocket-installation) show that it is OS independent
+|Does your software adhere to appropriate accessibility conventions or standards?	|Yes	|[Github link](https://github.com/NCSU-Group7-SE2021/slash/)
+|Does your documentation adhere to appropriate accessibility conventions or standards?	|Yes	|[Documentation Link](https://github.com/NCSU-Group7-SE2021/slash#readme)
+|Is your source code stored in a repository under revision control?	|Yes	|[Github.com](https://github.com/NCSU-Group7-SE2021/slash)
+|Is each source code release a snapshot of the repository?	|Yes	|[Releases](https://github.com/NCSU-Group7-SE2021/slash/releases)
+|Are releases tagged in the repository?	|Yes	|[Tags](https://github.com/NCSU-Group7-SE2021/slash/tags)
+|Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)	|Yes	|[Main](https://github.com/NCSU-Group7-SE2021/slash/tree/main)
+|Do you back-up your repository?	|Yes	|[Projects](https://github.com/NCSU-Group7-SE2021/slash/)
+|Do you provide publicly-available instructions for building your software from the source code?	|Yes	|[Run instructions](https://github.com/NCSU-Group7-SE2021/slash#rocket-installation)
+|Can you build, or package, your software using an automated tool? e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)	|Yes	|[Readme](https://github.com/NCSU-Group7-SE2021/slash#readme)	
+|Do you provide publicly-available instructions for deploying your software?	|Yes	|[Github](https://github.com/NCSU-Group7-SE2021/slash/)
+|Does your documentation list all third-party dependencies?	|Yes	|[Third party deps link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/docs/Github%20Actions-Azure%20Integration.pdf)
+|Does your documentation list the version number for all third-party dependencies?	|No |
+|Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?	|Yes	|[Third party deps link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/docs/Github%20Actions-Azure%20Integration.pdf)	
+|Can you download dependencies using a dependency management tool or package manager? e.g. Ivy (http://ant.apache.org/ivy/), Maven (https://maven.apache.org/), Python pip (https://pypi.python.org/pypi/pip) or setuptools (https://pypi.python.org/pypi/setuptools), PHP Composer (https://getcomposer.org/), Ruby gems (https://rubygems.org), or R PackRat (https://rstudio.github.io/packrat/)	|Yes	|[Getting started](https://github.com/jiangyy12/Simplii#getting-started)	
+|Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?	|Yes	|[Tests](https://github.com/NCSU-Group7-SE2021/slash/tree/main/tests)	
+|Do you have an automated test suite for your software?	|Yes	|[Tests](https://github.com/NCSU-Group7-SE2021/slash/tree/main/tests)
+|Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?	|Yes	|[.github/workflows/python-app.yml](https://github.com/NCSU-Group7-SE2021/slash/blob/main/.github/workflows/python-app.yml)
+|Do you use continuous integration, automatically running tests whenever changes are made to your source code?	|Yes	|[.github/workflows/python-app.yml](https://github.com/NCSU-Group7-SE2021/slash/blob/main/.github/workflows/python-app.yml)
+|Are your test results publicly visible?	|No |
+|Are all manually-run tests documented?	|No |
+|Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations	|Yes	|[Releases](https://github.com/NCSU-Group7-SE2021/slash/releases)
+|Does your website state how many projects and users are associated with your project?	|Yes	|[users](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)	|
+|Do you provide success stories on your website?	|No		
+|Do you list your important partners and collaborators on your website?	|Yes	|[Collaborators](https://github.com/NCSU-Group7-SE2021/slash/graphs/contributors)
+|Do you list your project's publications on your website or link to a resource where these are available?	|Yes	|[Pub link](https://github.com/NCSU-Group7-SE2021/slash/blob/main/docs/proj1rubricComments.pdf)
+|Do you list third-party publications that refer to your software on your website or link to a resource where these are available?	|No	|	
+|Can users subscribe to notifications to changes to your source code repository?	|Yes 	|[Star the repository here](https://github.com/NCSU-Group7-SE2021/slash/)	
+|If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?	|No
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?	|Yes	|[Contributing](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md)
+|Do you have a contributions policy?	|Yes	|[Contributing](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md)
+|Is your contributions' policy publicly available?	|Yes	|[Contributing](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md)
+|Do contributors keep the copyright/IP of their contributions?	|Yes	|[Contributing](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CONTRIBUTING.md)
+|Does your website and documentation clearly state the copyright owners of your software and documentation?	|Yes	|[Copyright owners in readme](https://github.com/NCSU-Group7-SE2021/slash#readme) |
+|Does each of your source code files include a copyright statement?	|No		
+Does your website and documentation clearly state the licence of your software?	|Yes	|[LICENSE](https://github.com/NCSU-Group7-SE2021/slash/blob/main/LICENSE)	
+|Is your software released under an open source licence?	|Yes	|[License](https://github.com/NCSU-Group7-SE2021/slash/blob/main/LICENSE)
+|Is your software released under an OSI-approved open-source licence?	|Yes	|[LICENSE](https://github.com/NCSU-Group7-SE2021/slash/blob/main/LICENSE)
+|Does each of your source code files include a licence header?	|No		
+|Do you have a recommended citation for your software?	|Yes	|[CITATION](https://github.com/NCSU-Group7-SE2021/slash/blob/main/CITATION.cff)	
+|Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?	|Yes	|[Future Enhancements](https://github.com/NCSU-Group7-SE2021/slash#golf-future-roadmap)	
+|Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?	|No		
+|Do you make timely announcements of the deprecation of components, APIs, etc.?	|Yes	|[Phase 3 improvements](https://github.com/NCSU-Group7-SE2021/slash#rocket-improvements-over-phase-ii)
